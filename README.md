@@ -1,4 +1,4 @@
-A Multi-Layer Perceptron implementation with customizable hidden layer & units, error limit, learning rate, and training data.
+A Multi-Layer Perceptron implementation with customizable number of hidden layers & each number of units for each layer, error limit, learning rate, and training data.
 It consist of a backpropagation algorithm implementation with linear combinator and non-linear sigmoid activation function.
 
 <h1>How To Use :</h1>
