@@ -12,7 +12,7 @@ It consist of a backpropagation algorithm implementation with linear combinator 
     };
 ```
 Array of first column refers to input and array of second column output.
-Creation of new units and separated by commas.
+Creation of new units are separated by commas.
 Output range can only be from 0-1. To output a range larger than 1 or lower than 0, change the activation function along with its derivative in the lines of codes
 or multiply each output by the desired power of 10.
 
@@ -21,7 +21,7 @@ or multiply each output by the desired power of 10.
 static int[] hiddenLayerUnits = {18,15};
 ```
 The example above refers there are 2 hidden layers each with 18 neurons and 15 neurons respectively.
-To create a new layer and its number of hidden units, type values of integer types and separate by commas.
+To create a new layer and its number of hidden units, type values of integer types and separate them by commas.
 
 <b>2.Modifying amount of learning rate and error limit</b>
 ```
